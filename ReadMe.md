@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLecinio&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![snake gif](https://github.com/PedroLecinio/PedroLecinio/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/PedroLecinio/PedroLecinio/blob/output/github-contribution-grid-snake.svg)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
